@@ -1,5 +1,7 @@
 # covidPrediccionPython
 
+![alt text](https://github.com/Joshua117/covidPrediccionPython/blob/master/Screenshot_2.png)
+
 Prediccion de datos del covid usando un algoritmo genetico usando python y usando redes bayesianas aplicadas al covid mediante sus sintomas.
 
 Datos del covid obtenidos de:
